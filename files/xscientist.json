@@ -335,12 +335,12 @@
         },
         {
             "id": 3,
-            "image": "about_img/banner.png",
+            "image": "about_img/group.png",
             "caption": "Lorem3"
         },
         {
             "id": 4,
-            "image": "about_img/group.png",
+            "image": "about_img/banner.png",
             "caption": "Lorem4"
         }
     ]
